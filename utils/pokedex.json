@@ -1,0 +1,1518 @@
+{
+  "bulbizarre": {
+    "name": "Bulbizarre",
+    "description": "Bulbizarre est un petit quadrupède vert avec une tête large. Il porte un bulbe sur son dos. Ce dernier lui sert également d'organe de stockage, puisqu'on rapporte notamment qu'en période de sécheresse, il peut survivre plusieurs jours sans manger grâce à l'énergie qui y est accumulée. Il a des taches foncées sur le corps faisant penser à un batracien. Son bulbe grandit en permanence en absorbant les rayons du soleil, et lorsque le poids du bulbe sera trop grand et empêchera Bulbizarre de se dresser sur ses deux pattes arrière, cela signifiera que son évolution en Herbizarre est proche. Bulbizarre utilise couramment la capacité Vampigraine qui est l'expulsion d'une graine parasitant l'ennemi par l'orifice de son bulbe ; et le Fouet Lianes qui est l'utilisation de tiges comme membres articulés pour frapper l'adversaire. Ces tiges sont d'ailleurs fréquemment utilisées pour manipuler des objets ou se porter lui-même en hauteur. Leur force est incroyable, il peut soulever des masses équivalentes à la sienne, voire plus grosses.",
+    "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+    "number": "001",
+    "poids": "6,9 kg, soit 15,2 livres",
+    "taille": "0,7 m, soit 2 pieds 4 pouces",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108464667988348988/250px-Bulbizarre-RFVF.png?width=1000&height=932",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108384528919171143/1200px-Bulbizarre_de_Sacha.png?width=1902&height=1070"
+  },
+  "herbizarre": {
+    "name": "Herbizarre",
+    "description": "Herbizarre est un Pokémon quadrupède, semblable à un dinosaure. Il a un corps bleu vert avec des taches plus foncées. Deux canines supérieures dépassent de sa bouche quand elle est fermée, et par rapport à sa pré-évolution, ses yeux sont plus petits et plus foncés. Il a sur le haut de sa tête deux oreilles pointues remplies de noir. Il a un petit museau rond et une large bouche. Chacun de ses pieds possède trois griffes pointues et blanches. Le bulbe sur son dos a fleuri et est devenu un gros bourgeon rose dont le poids est tel qu'il empêche Herbizarre de se tenir sur ses pattes postérieures trop longtemps. Une petite tige marron, entourée par quatre larges feuilles, soutient le bourgeon. Quand le bourgeon est sur le point d'éclore, il dégage une délicate odeur fleurie et commence à se gonfler. Herbizarre commence donc à passer plus de temps au soleil pour préparer son évolution proche. L'exposition au soleil donne plus de force à la plante et à Herbizarre. Les Herbizarre vivent naturellement dans les plaines. Cependant, à présent, beaucoup vivent en captivité.",
+    "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+    "number": "002",
+    "taille": "1,0 m, soit 3 pieds 3 pouces",
+    "poids": "13,0 kg, soit 28,7 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108464824716906536/250px-Herbizarre-RFVF.png?width=1000&height=932",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108384669025706014/Herbizarre_de_Sannah.png?width=1902&height=1070"
+  },
+  "florizarre": {
+    "name": "Florizarre",
+    "description": "Florizarre est un imposant quadrupède à la peau verte ayant l'aspect d'un batracien, il est beaucoup plus grand et lourd que Bulbizarre et Herbizarre. Il porte une grande fleur rose tachetée sur son dos, entourée de quatre grandes feuilles. L'intérieur de ses oreilles s'est coloré de rouge et sa peau au niveau de ses pattes est désormais recouverte d'excroissances faisant penser aux verrues d'un crapaud. Sa bouche est ornée de six petites canines. Chacun de ses pas provoque un tremblement du sol. Sa fleur émet un parfum qui calme les esprits et appâte les Pokémon. Ce parfum est plus entêtant après une journée de pluie. La fleur permet aussi à Florizarre d'absorber les rayons du soleil pour se soigner ou être plus efficace en combat. Florizarre possède plus de lianes que ses pré-évolutions, qui étaient limitées à deux. Avec elles, il peut soulever des adversaires très lourds. Lors d'une attaque Lance-Soleil, sa fleur sur son dos emmagasine l'énergie des rayons du soleil, mais il semblerait qu'il puisse relâcher sa puissance soit par l'orifice de sa plante, soit par sa bouche, selon la position angulaire de son adversaire.",
+    "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+    "number": "003",
+    "taille": "2,0 m, soit 6 pieds 7 pouces",
+    "poids": "100,0 kg, soit 220,5 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108465139453263922/250px-Florizarre-RFVF.png?width=1000&height=776",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108384979160936568/Florizarre.png?width=1902&height=1070"
+  },
+  "salameche": {
+    "name": "Salamèche",
+    "description": "Salamèche est un Pokémon bipède et reptilien avec un corps principalement orange, à l'exception de son ventre et de ses plantes de pieds qui sont beiges. Ses bras et ses jambes sont courts, avec respectivement quatre doigts et trois griffes chacune. Une flamme brûle au bout de la svelte queue de Salamèche, et elle flamboie depuis sa naissance. La flamme peut servir d'indication quant à la santé et à l'humeur de Salamèche : elle brûle fièrement quand le Pokémon est en pleine forme, doucement si le Pokémon est faible ou triste, ondoie quand il est heureux et flamboie quand il est en colère. Il est dit qu'un Salamèche meurt si sa flamme s'éteint. Salamèche peut être trouvé dans les chaudes aires montagneuses. Cependant, il est trouvé encore plus fréquemment sous la propriété d'un Dresseur. Comme montré dans Pokémon Snap, Salamèche a un comportement de groupe, appelant les autres membres de sa bande quand il trouve à manger.",
+    "type": "<:Feus1:1108744435392581755>",
+    "number": "004",
+    "taille": "0,6 m, soit 2 pieds 0 pouce",
+    "poids": "8,5 kg, soit 18,7 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108465253114724382/250px-SalamC3A8che-RFVF.png?width=1000&height=1132",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108385089924104284/salameche-pokemon-origine.png?width=1880&height=1100"
+  },
+  "reptincel": {
+    "name": "Reptincel",
+    "description": "Reptincel est tiré du dinosaure ; il possède trois grandes et puissantes griffes acérées à chaque main et pied, qui l'aident notamment à déchirer la peau de ses ennemis lors des combats. Sa peau est plus foncée que celle de sa pré-évolution et son museau s'est allongé. Son crâne est désormais doté d'une crête. Sa queue, longue et terminée par une flamme, lui sert notamment à élever sa température, le rendant plus puissant en combat, et à faire chuter ses adversaires avant de les achever. Le Pokédex le dit extrêmement agressif, violent, voire cruel dans certains cas. Il cherche toujours des adversaires plus puissants et sa flamme devient bleue tandis que sa température augmente.",
+    "type": "<:Feus1:1108744435392581755>",
+    "number": "005",
+    "taille": "1,1 m, soit 3 pieds 7 pouces",
+    "poids": "19,0 kg, soit 41,9 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108465346794500136/250px-Reptincel-RFVF.png?width=1000&height=1176",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108385442929324093/200px-Reptincel_de_Sacha.png?width=400&height=226"
+  },
+  "dracaufeu": {
+    "name": "Dracaufeu",
+    "description": "Dracaufeu est basé sur un dragon européen. Contrairement à ses pré-évolutions, il a deux ailes lui permettant de voler : l'intérieur des ailes est bleu alors que leur verso est orange. Son cou s'est développé, il est désormais plus long et deux crêtes ont poussé à l'arrière de son crâne. Ses membres supérieurs se sont atrophiés tandis que sa queue s'est allongée pour permettre à ce titan de garder une certaine stabilité au sol bien qu'il soit plus à l'aise dans les airs. Sa dentition, avec ses canines apparentes, révèle une préférence marquée pour la viande ; il possède trois griffes à chaque patte et a le ventre jaune pâle. Pokémon noble, il n'attaque pas les plus faibles que lui et cherche toujours des adversaires plus forts. Après un combat difficile ou s'il est en colère, sa flamme s'intensifie et devient blanc-bleu. Il crache des flammes pouvant faire fondre n'importe quoi et est souvent la cause d'incendies.",
+    "type": "<:Feus1:1108744435392581755>, <:Vols1:1108767573283180634>",
+    "number": "006",
+    "taille": "1,7 m, soit 5 pieds 7 pouces",
+    "poids": "90,5 kg, soit 199,5 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108465448829321397/250px-Dracaufeu-RFVF.png?width=1000&height=784",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108385554002878474/800px-Dracaufeu_de_Tarak.png?width=1600&height=900"
+  },
+  "carapuce": {
+    "name": "Carapuce",
+    "description": "Carapuce est une petite tortue bipède de couleur bleue. Il possède une carapace brune au pourtour blanc, beige au niveau du ventre. Ses yeux sont grands et violacés. Il a une queue enroulée sur elle-même formant une spirale. Il possède quatre pattes avec chacune trois doigts. Sa carapace, molle à la naissance, durcit avec le temps et lui sert à se protéger pour lancer ensuite des jets d'eau ou d'écume, mais aussi à améliorer son hydrodynamisme.",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "007",
+    "taille": "0,5 m, soit 1 pied 8 pouces",
+    "poids": "9,0 kg, soit 19,8 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108465558225170502/250px-Carapuce-RFVF.png?width=1000&height=1034",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108385760282943589/1200px-Carapuce_de_Sacha.png?width=1902&height=1070"
+  },
+  "carabaffe": {
+    "name": "Carabaffe",
+    "description": "Carabaffe est une tortue bipède de couleur bleu indigo, dont les oreilles et la queue sont recouvertes d'une fourrure duveteuse de couleur blanche ; celle-ci fait d'ailleurs penser à des vagues. Ses grands yeux sont marron. Trois griffes ornent chacune de ses pattes, et une épaisse carapace le protège des coups. Carabaffe est fait pour le combat : des canines affleurent sur ses lèvres, sa queue peut administrer de puissantes volées de coups et ses pattes robustes lui permettent de résister aux chocs. Il semble pouvoir nager extrêmement vite, notamment à l'aide de ses oreilles et de sa queue. Il serait inspiré d'un cryptide japonais : Minogame, avec lequel il partage les oreilles et la queue.",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "008",
+    "taille": "1,0 m, soit 3 pieds 3 pouces",
+    "poids": "22,5 kg, soit 49,6 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108465649820373082/250px-Carabaffe-RFVF.png?width=1000&height=1020",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108385919834271834/latest.png?width=1210&height=680"
+  },
+  "tortank": {
+    "name": "Tortank",
+    "description": "Tortank est un bipède massif de la famille des tortues. Les extrémités supérieures gauche et droite de sa carapace sont ornées d'un canon à eau pouvant être orienté dans diverses directions. Formé au combat, sa tête s'est endurcie : le duvet de Carabaffe n'est plus présent et il possède désormais deux petites oreilles et une queue courte. Ses griffes se sont maintenant développées sur tous ses doigts et ses yeux n'ont pas changé de couleur.",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "009",
+    "taille": "1,6 m, soit 5 pieds 3 pouces",
+    "poids": "1,6 m, soit 5 pieds 3 pouces",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108465745588920462/250px-Tortank-RFVF.png?width=1000&height=1086",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108386418608320532/1200px-Tortank_de_RC3A9gis.png?width=1902&height=1070"
+  },
+  "chenipan": {
+    "name": "Chenipan",
+    "description": "Chenipan est un Pokémon serpentin ressemblant aux larves de Papilio xuthus. Il a le corps d'une chenille verte avec des marques jaunes en forme d'anneaux sur les flancs. Il possède également de grands yeux jaunes aux pupilles noires. Sa caractéristique la plus notable est l'antenne rouge vif sur sa tête en forme de « Y », certainement un osmeterium, qui libère une odeur repoussant les prédateurs. Ses marques en formes d'yeux servent également à effrayer ses ennemis. Ses pattes se terminent par des ventouses, permettant à ce Pokémon d'escalader la plupart des surfaces avec un minimum d'efforts.",
+    "type": "<:Insectes1:1108766895865344154>",
+    "number": "010",
+    "taille": "0,3 m, soit 1 pied 0 pouce",
+    "poids": "2,9 kg, soit 6,4 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108465877046804480/250px-Chenipan-RFVF.png?width=1000&height=1002",
+    "image": "https://media.discordapp.net/attachments/1108369544575201370/1108386644266074233/EVy3WZUXsAAOXBZ.png?width=1000&height=568"
+  },
+  "chrysacier": {
+    "name": "Chrysacier",
+    "type": "<:Insectes1:1108766895865344154>",
+    "number": "011",
+    "description": "Chrysacier est un Pokémon cocon intégralement vert. Courbé vers l'arrière, il possède deux yeux à demi fermés avec des sclères blanches (jaune pâle dans l'animé). Sous ses yeux, plusieurs plaques prennent la forme d'un museau. Il possède une pointe au milieu du dos. L'extrémité inférieure de son corps comporte deux anneaux striés.",
+    "taille": "0,7 m, soit 2 pieds 4 pouces",
+    "poids": "9,9 kg, soit 21,8 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108469997321343036/250px-Chrysacier-RFVF.png?width=1000&height=1140",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108470365392474202/300px-Chrysacier_de_Goh.png?width=600&height=338"
+  },
+  "papilusion": {
+    "name": "Papilusion",
+    "type": "<:Insectes1:1108766895865344154>, <:Vols1:1108767573283180634>",
+    "number": "012",
+    "description": "Papilusion est une sorte de papillon possédant de grandes antennes. Il est violet avec des parties bleues ; ses ailes, très grandes pour sa taille, permettent notamment les capacités de type <:Vols1:1108767573283180634> et l'utilisation de diverses poudres. Comme pour les insectes réels, ses yeux sont probablement composés. Ses ailes possèdent des motifs comme les papillons. Il a deux grands pieds qui ne semblent pas posséder de doigts, mais deux mains qui en ont trois sur chacune d'elles. Papilusion a deux petites dents qui semblent sortir de son nez. Ses antennes sont de longues tiges noires avec une boule au bout. Il adore le pollen.",
+    "taille": "1,1 m, soit 3 pieds 7 pouces",
+    "poids": "32,0 kg, soit 70,5 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108470467142099064/250px-Papilusion-RFVF.png?width=1000&height=910",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108470737876045844/latest.png?width=1902&height=1072"
+  },
+  "aspicot": {
+    "name": "Aspicot",
+    "type": "<:Insectes1:1108766895865344154>, <:Poisons1:1108768326496301056>",
+    "number": "013",
+    "description": "Aspicot est à moitié chenille et à moitié asticot. Sa tête est recouverte d'un aiguillon empoisonné qui fait sa dangereuse réputation.",
+    "taille": "0,3 m, soit 1 pied 0 pouce",
+    "poids": "3,2 kg, soit 7,1 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108470860773335153/250px-Aspicot-RFVF.png?width=1000&height=1274",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108471207856197753/300px-Aspicot_de_Cathy.png?width=600&height=452"
+  },
+  "coconfort": {
+    "name": "Coconfort",
+    "type": "<:Insectes1:1108766895865344154>, <:Poisons1:1108768326496301056>",
+    "number": "014",
+    "description": "Coconfort est en fait un Pokémon enveloppé dans une armure marron clair attendant son évolution. Il est inspiré d'une nymphe de guêpe, c'est-à-dire son stade entre la larve et l'adulte. Il a deux dards sous sa tête triangulaire, précurseurs de sa future évolution en Dardargnan. Il a deux yeux noirs à pupille blanche. ",
+    "taille": "0,6 m, soit 2 pieds 0 pouce",
+    "poids": "10,0 kg, soit 22,0 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108471491525361775/250px-Coconfort-RFVF.png?width=786&height=1468",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108471352664526888/300px-Coconfort_de_Goh.png?width=600&height=338"
+  },
+  "dardargnan": {
+    "name": "Dardargnan",
+    "type": "<:Insectes1:1108766895865344154>, <:Poisons1:1108768326496301056>",
+    "number": "015",
+    "description": "Dardargnan est un Pokémon inspiré de la guêpe géante du Japon, le vespa mandarinia. Il possède deux grandes antennes sur sa tête triangulaire. Il est jaune et noir et possède quatre pattes dont les deux antérieures sont munies de gros dards. Il possède quatre ailes transparentes et un dard jaune en guise de queue. Ses yeux sont rouges et lui permettent de voir même en grande vitesse pendant son vol.",
+    "taille": "1,0 m, soit 3 pieds 3 pouces",
+    "poids": "29,5 kg, soit 65,0 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108471932497694740/250px-Dardargnan-RFVF.png?width=1000&height=1206",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108472327760523334/300px-Dardargnan_de_Goh.png?width=600&height=338"
+  },
+  "roucool": {
+    "name": "Roucool",
+    "type": "<:Normals1:1108767642908643389>, <:Vols1:1108767573283180634>",
+    "number": "016",
+    "description": "Roucool est un petit Pokémon aviaire au corps dodu. Il est principalement marron avec un visage, un ventre et quelques plumes de couleur crème. Ses serres et son bec sont gris rosâtre. Il a des marquages noirs angulaires autour des yeux et une petite crête aux plumes marron et crème sur le dessus de la tête.",
+    "taille": "0,3 m, soit 1 pied 0 pouce",
+    "poids": "1,8 kg, soit 4,0 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108472512330862722/250px-Roucool-RFVF.png?width=1000&height=1074",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108472860302917682/Roucool_de_Cathy.png?width=1280&height=960"
+  },
+  "roucoups": {
+    "name": "Roucoups",
+    "type": "<:Normals1:1108767642908643389>, <:Vols1:1108767573283180634>",
+    "number": "017",
+    "description": "Roucoups est un Pokémon volatile qui ressemble à un rapace. Il est couvert de plumes marron, et a un visage et un ventre couleur crème. Il a une crête de plumes rouge rosâtre sur le dessus de la tête et des marquages noirs angulaires autour des yeux. Le plumage de sa queue est alternativement rouge et jaune, et les plumes de sa queue ont un bout déchiqueté. Son bec et ses jambes sont roses, et il a de puissantes serres aiguisées dont il se sert pour attraper ses proies.",
+    "taille": "1,1 m, soit 3 pieds 7 pouces",
+    "poids": "30,0 kg, soit 66,1 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108473266122797156/250px-Roucoups-RFVF.png?width=1000&height=1158",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108494709778825216/300px-Roucoups_de_Ralph.png?width=600&height=450"
+  },
+  "roucarnage": {
+    "name": "Roucarnage",
+    "type": "<:Normals1:1108767642908643389>, <:Vols1:1108767573283180634>",
+    "number": "018",
+    "description": "Bien que dans beaucoup de langues, son nom soit issu du terme pigeon, il a bien plus de points communs avec un aigle. Ainsi, il partage avec cet animal une silhouette proche (allure générale, taille, forme des ailes et des serres, etc) et d'autres données physiologiques, comme la vue perçante. Cependant, ce Pokémon oiseau est doté d'un physique assez fort. Là où d'autres concurrents du même genre sont plutôt petits (Hélédelle mesure 0,7 m - Étouraptor, Déflaisan, Flambusard et Rapasdepic mesurent 1,2 m), Roucarnage atteint une moyenne d'1,5 m. De même pour la masse, Hélédelle pèse 19,8 kg, Étouraptor atteint 24,9 kg, Rapasdepic 38 kg, Flambusard 24,5 kg et Déflaisan 29 kg; alors que Roucarnage monte à 39,5 kg. Son allure à l'aspect moins élancé traduit d'ailleurs ces données physiques. De ce fait, Roucarnage se sert surtout de ses ailes puissantes pour attaquer. Si contrairement à Rapasdepic, il n'a pas la capacité de lancer l'attaque Bec Vrille, il se sert surtout de Tornade, Cyclone mais aussi Cru-Aile et Rapace. L'attaque Hâte est aussi régulièrement utilisée pour combler ce déficit de vitesse. Roucarnage est un Pokémon réputé pour sa fierté, ainsi que son ardeur à défendre son territoire. A l'état domestique, il est en général très docile (notamment parce que la plupart des Roucarnage domestiques sont issus d'évolutions à partir du stade de base Roucool), mais conserve son ardeur qu'il met au service de son Dresseur.",
+    "taille": "1,5 m, soit 4 pieds 11 pouces",
+    "poids": "39,5 kg, soit 87,1 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108495006123176046/250px-Roucarnage-RFVF.png?width=1000&height=1048",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108494518757638185/1200px-Roucarnage_de_Sacha.png?width=1902&height=1070"
+  },
+  "rattata": {
+    "name": "Rattata",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "019",
+    "description": "Rattata est un Pokémon ressemblant à un rat au corps violet et blanc pâle. C'est donc un quadrupède, avec trois griffes à chaque patte.",
+    "taille": "0,3 m, soit 1 pied 0 pouce",
+    "poids": "3,5 kg, soit 7,7 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108495191549169724/250px-Rattata-RFVF.png?width=1000&height=882",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108495528485986345/C389vC3A9nement-Chenapan-dC3A9chaC3AEnC3A9-ratata.png?width=1300&height=650"
+  },
+  "rattatac": {
+    "name": "Rattatac",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "020",
+    "description": "Rattatac ressemble à un gros rat et possède de petits bras, un corps marron et beige et des pieds palmés. Il a les yeux noirs. Il possède aussi une longue queue marron. Sa bouche possède deux larges incisives (une en bas et une en haut). Il a des moustaches qui sont au nombre de trois de chaque côté de sa tête. Rattatac est rapide et robuste et capable de croquer n'importe quoi. Si l'on coupe ses moustaches, il perdra de la vitesse et sera moins efficace au combat.",
+    "taille": "0,7 m, soit 2 pieds 4 pouces",
+    "poids": "18,5 kg, soit 40,8 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108495686997131364/250px-Rattatac-RFVF.png?width=1000&height=980",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108495851443200030/Rattatac_de_Sacha.png?width=640&height=480"
+  },    
+  "piafabec": {
+    "name": "Piafabec",
+    "type": "<:Normals1:1108767642908643389>, <:Vols1:1108767573283180634>",
+    "number": "021",
+    "description": "Petit et rapide, Piafabec est un oiseau à la mine revêche doté d'un caractère très désagréable. D'une lâcheté à toute épreuve, il vit avec ses congénères dans des clans d'une trentaine de membres. Ils attaquent les différents Pokémon vivants dans leur territoire et les Dresseurs de passage. Il a deux ailes rouges et des plumes brunes sur son dos. Son ventre est gris. Ses pattes griffues ont trois doigts.",
+    "taille": "0,3 m, soit 1 pied 0 pouce",
+    "poids": "2,0 kg, soit 4,4 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108498181567815710/250px-Piafabec-RFVF.png?width=1000&height=1026",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108498761589727303/piafabec-vedette-pokemon-go.png?width=1902&height=1070"
+  },
+  "rapasdepic": {
+    "name": "Rapasdepic",
+    "type": "<:Normals1:1108767642908643389>, <:Vols1:1108767573283180634>",
+    "number": "022",
+    "description": "Rapasdepic ressemble à un grand oiseau et plus particulièrement à un rapace. Il a une crête rouge à cinq pics. Sur son corps se trouve une fourrure beige. Il a les yeux blancs avec des pupilles noires et possède un très large bec pointu et d'immenses ailes. Il possède également une queue à quatre plumes ainsi que des serres puissantes. Rapasdepic est craint de tous les Pokémon oiseaux plus petits que lui, car il attaque sans motif apparent. Il aime particulièrement planer au-dessus des nuages, là où la plupart des oiseaux ne volent pas. Son bec pointu est excellent dans les attaques Bec Vrille, mais il aime tout particulièrement l'attaque Mimique.",
+    "taille": "1,2 m, soit 3 pieds 11 pouces",
+    "poids": "38,0 kg, soit 83,8 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108499065529979021/250px-Rapasdepic-RFVF.png?width=1000&height=926",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108499402932371507/300px-EP202_-_Rapasdepic_de_Skyler.png?width=600&height=444"
+  },
+  "abo": {
+    "name": "Abo",
+    "type": "<:Poisons1:1108768326496301056>",
+    "number": "023",
+    "description": "Abo est un Pokémon serpent au corps violet. Son ventre est complètement jaune, tout comme l'anneau qu'il possède autour du cou.",
+    "taille": "2,0 m, soit 6 pieds 7 pouces",
+    "poids": "6,9 kg, soit 15,2 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108499661603475456/250px-Abo-RFVF.png?width=1000&height=988",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108500132963565618/300px-Abo_de_Jessie.png?width=600&height=450"
+  },
+  "arbok": {
+    "name": "Arbok",
+    "type": "<:Poisons1:1108768326496301056>",
+    "number": "024",
+    "description": "Arbok est un Pokémon qui ressemble à un serpent avec des écailles violettes tout le long du corps. Il a un large capuchon sous sa tête, où se dessine un motif qui ressemble à un visage énervé, ce dernier changeant en fonction de son environnement (il est indiqué dans Pokémon Jaune que six motifs différents sont recensés). Ce motif contient généralement des tâches rouges et jaunes qui forment les yeux entourés de noir, une bande noire qui ressemble à une bouche et une bande noire en forme de V au-dessus du visage. Arbok est capable d'écraser ses adversaires en enroulant son corps autour d'eux et en les pressant très fort. Il peut même aplatir des barils de pétrole. Quand il rencontre un ennemi, il lève la tête, l'effraie avec le motif de son capuchon et en faisant des bruits avec sa langue. Il est dit que n'importe quelle partie que l'on coupe du corps d'Arbok, à part la tête, repousse dans l'espace de quelques semaines. Il est également capable de ressentir les vibrations, comme montré dans le dessin animé. Arbok est capable de passer de longues périodes sous l'eau et de survivre dans les milieux aquatiques. Arbok est territorial. Il s'en prend aux ennemis avec ses longs crochets remplis de venin mortel. D'une nature vengeresse, il n'abandonnera jamais une proie ou un ennemi jusqu'à ce qu'il gagne, peu importe le temps que cela prendra. Il vit dans les plaines et les savanes. Dans la nature, il chasse les Pokémon plus petits, qu'il immobilise avec son corps avant de les achever avec son venin et de les manger.",
+    "taille": "3,5 m, soit 11 pieds 6 pouces",
+    "poids": "65,0 kg, soit 143,3 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108500722284245094/250px-Arbok-RFVF.png?width=1000&height=1122",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108501176984535205/latest.png?width=1902&height=1080"
+  },
+  "pikachu": {
+      "name": "Pikachu",
+      "description": "Pikachu est un petit Pokémon joufflu qui ressemble à un rongeur, au corps recouvert d'un pelage jaune avec deux bandes horizontales brunes dans le dos. Si tu ne le connais pas, tu vis dans une grotte.",
+      "type": "<:Electriks1:1108744731879546992>",
+      "number": "025",
+      "taille": "0,4 m, soit 1 pied 4 pouces",
+      "poids": "6,0 kg, soit 13,2 livres",
+      "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108501292361469982/250px-Pikachu-DEPS.png?width=1000&height=974",
+      "image": "https://media.discordapp.net/attachments/1108470355418415186/1108501509634793693/da443fd6b5f192797a6f517bd6cee2d4-pokemon-les-voyages-dessin-anime-manga-programme-tv.png?width=1902&height=1068"
+    },
+    "raichu": {
+      "name": "Raichu",
+      "type": "<:Electriks1:1108744731879546992>",
+      "number": "026",
+      "description": "Raichu est un Pokémon ressemblant à une souris. Son corps est orange avec un ventre blanc. Il possède une longue queue noire avec au bout un éclair jaune. Ses joues sont jaunes, ses pattes sont marron ; il n'a pas de doigt visible sur les pattes avant, mais en a trois les pattes arrière qui sont blanches côté paume tandis qu'un cercle jaune fait penser à un talon. Ses oreilles sont grandes, jaunes à l'intérieur et marron à l'extérieur",
+      "taille": "0,8 m, soit 2 pieds 7 pouces",
+      "poids": "30,0 kg, soit 66,1 livres",
+      "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108501889965895880/250px-Raichu-RFVF.png?width=1000&height=886",
+      "image": "https://media.discordapp.net/attachments/1108470355418415186/1108502129502588998/Raichu_de_Tierno.png?width=1600&height=898"
+    },
+    "sabelette": {
+      "name": "Sabelette",
+      "type": "<:Sols1:1108745473965183107>",
+      "number": "027",
+      "description": "Sabelette est un Pokémon ressemblant à un tatou au corps cuirassé jaune. Son ventre est complètement beige pâle en plus de son menton. Il possède des yeux noir et bleu et deux petites oreilles. Ce bipède est muni de trois griffes aux bras et de deux aux jambes. Sabelette vit en horde.",
+      "taille": "0,6 m, soit 2 pieds 0 pouce",
+      "poids": "12,0 kg, soit 26,5 livres",
+      "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108709112042233856/250px-Sabelette-RFVF.png?width=1000&height=1098",
+      "image": "https://media.discordapp.net/attachments/1108470355418415186/1108710664765190207/200px-Sabelette_de_MaC3AFtC3A9.png?width=400&height=300"
+    },
+    "sablaireau": {
+      "name": "Sablaireau",
+      "type": "<:Sols1:1108745473965183107>",
+      "number": "028",
+      "description": "Sablaireau est un Pokémon ressemblant à la fois au blaireau (pattes), au tatou et au pangolin, avec un corps jaune et un ventre blanc pâle. Il possède deux yeux noirs, deux grandes oreilles en pointes et une corne jaune sur la tête. Son dos est hérissé de grosses épines marron allant de la tête jusqu'au bas du dos. Contrairement à sa pré-évolution Sabelette, sa queue n'a pas de rayures. Ce bipède est muni de deux grandes griffes aux bras et aux jambes.",
+      "taille": "1,0 m, soit 3 pieds 3 pouces",
+      "poids": "29,5 kg, soit 65,0 livres",
+      "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108711957537771560/250px-Sablaireau-RFVF.png?width=1000&height=956",
+      "image": "https://media.discordapp.net/attachments/1108470355418415186/1108712290565509130/Sablaireau.png?width=1480&height=740"
+    },
+    "nidoran♀": {
+      "name": "Nidoran♀",
+      "type": "<:Poisons1:1108768326496301056>",
+      "number": "029",
+      "description": "Nidoran♀ est un Pokémon femelle au corps bleu tirant vers le blanc. Elle possède des taches violettes de chaque côté de son corps. Ses yeux sont rouges, et elle a deux grandes oreilles dont l'intérieur est bleu canard et violet. Elle est munie d'une grande dent et de quatre moustaches, faisant penser à un rongeur. Ce quadrupède possède deux petites griffes à chaque patte et possède deux piquants au bas du dos.",
+      "taille": "0,4 m, soit 1 pied 4 pouces",
+      "poids": "7,0 kg, soit 15,4 livres",
+      "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108711423963570206/250px-NidoranE29980-RFVF.png?width=1000&height=960",
+      "image": "https://media.discordapp.net/attachments/1108470355418415186/1108711739819827311/Female_Nidoran_Tackle_PO.png?width=1408&height=800"
+    },
+      "nidorina": {
+        "name": "Nidorina",
+        "type": "<:Poisons1:1108768326496301056>",
+        "number": "030",
+        "description": "Nidorina est un Pokémon femelle au corps bleu tirant vers le blanc. Elle possède des taches bleu foncé sur ses pattes arrière en plus de piques hérissant son dos. Ses yeux sont rouges et elle a deux grandes oreilles bleu foncé et bleu clair. Elle est munie de deux canines, mais n'a pas de moustaches, contrairement à sa pré-évolution. Elle a trois griffes à chaque patte.",
+        "taille": "0,8 m, soit 2 pieds 7 pouces",
+        "poids": "20,0 kg, soit 44,1 livres",
+        "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108714075371872266/250px-Nidorina-RFVF.png?width=1000&height=1134",
+        "image": "https://media.discordapp.net/attachments/1108470355418415186/1108716448706215986/images.png?width=516&height=390"
+      },
+      "nidoqueen": {
+        "name": "Nidoqueen",
+        "type": "<:Poisons1:1108768326496301056>, <:Sols1:1108745473965183107>",
+        "number": "031",
+        "description": "Nidoqueen est un Pokémon bipède au corps cuirassé de couleur principalement bleu à l'exception de son menton, sa poitrine et son abdomen étant de couleur crème. Elle dispose d'une corne sur le front ainsi qu'une colonne de pics allant du dos jusqu'à sa queue. Ses oreilles possèdent un pic et l'intérieur est marron. Ses mains disposent de trois doigts griffus et ses pieds possèdent deux orteils griffus. Contrairement à ses pré-évolutions, elle dispose une sorte de bec édenté. Avant la quatrième génération, certains artworks ou sprites représentaient ce Pokémon avec une dentition.",
+        "taille": "1,3 m, soit 4 pieds 3 pouces",
+        "poids": "60,0 kg, soit 132,3 livres",
+        "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108716812243304530/250px-Nidoqueen-RFVF.png?width=1000&height=1032",
+        "image": "https://media.discordapp.net/attachments/1108470355418415186/1108717700869537847/00-featured-nidoqueen-anime-battle-pokemon.png?width=1500&height=700"
+      },
+      "nidoran♂": {
+        "name": "Nidoran♂",
+        "type": "<:Poisons1:1108768326496301056>",
+        "number": "032",
+        "description": "Nidoran♂ est un Pokémon mâle de couleur mauve. Son dos est muni de trois rangées de piquants. Ses grandes oreilles, dont l'intérieur est bleu canard, sont cornées. Sa peau est tachetée de violet sur chaque côté de son corps. Sa mâchoire ne compte qu'une dent et ses yeux sont rouges. Ce quadrupède possède deux griffes à chacune de ses pattes, ainsi qu'une corne sur son front.",
+        "taille": "0,5 m, soit 1 pied 8 pouces",
+        "poids": "9,0 kg, soit 19,8 livres",
+        "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108718098938331216/250px-NidoranE29982-RFVF.png?width=1000&height=1108",
+        "image": "https://media.discordapp.net/attachments/1108470355418415186/1108718375716274267/2Q.png?width=500&height=282"
+      },
+      "nidorino": {
+        "name": "Nidorino",
+        "type": "<:Poisons1:1108768326496301056>",
+        "number": "033",
+        "description": "Nidorino est un Pokémon mâle au corps violet. Il possède une corne sur son front, une paire de canines et une colonne de piquants sur son dos. Ses grandes oreilles, dont l'intérieur est bleu canard pâle, sont munies de deux cornes chacune. Sa peau comporte quelques taches violet foncé par endroits et ses yeux sont rouges. Ce quadrupède possède trois griffes à chaque patte.",
+        "taille": "0,9 m, soit 2 pieds 11 pouces",
+        "poids": "19,5 kg, soit 43,0 livres",
+        "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108718974352498730/250px-Nidorino-RFVF.png?width=1000&height=1114",
+        "image": "https://media.discordapp.net/attachments/1108470355418415186/1108719254703980544/latest.png?width=2352&height=1324"
+      },
+      "nidoking": {
+        "name": "Nidoking",
+        "type": "<:Poisons1:1108768326496301056>, <:Sols1:1108745473965183107>",
+        "number": "034",
+        "description": "Nidoking est un Pokémon bipède à l'allure bestiale. Son corps cuirassé est principalement violet et sa partie pectorale est gris blanc. Il dispose d'une grosse corne empoisonnée sur le front ainsi que de plusieurs excroissances pointues longeant son dos. Ses oreilles possèdent des pics et l'intérieur est bleu canard. Sa mâchoire inférieure dispose de dents pointues dont deux crocs dépassant de sa bouche. Ses mains se composent de trois doigts griffus à l'exception de ses pieds, ne possédant qu'un orteil griffu. Contrairement à ses pré-évolutions, il dispose une épaisse queue ornée de marques circulaires.",
+        "taille": "1,4 m, soit 4 pieds 7 pouces",
+        "poids": "62,0 kg, soit 136,7 livres",
+        "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108719475131437167/250px-Nidoking-RFVF.png?width=1000&height=766",
+        "image": "https://media.discordapp.net/attachments/1108470355418415186/1108720529839493140/latest.png?width=2352&height=1324"
+      },
+      "melofee": {
+        "name": "Mélofée",
+        "type": "<:Fees6:1108775623134023813>",
+        "number": "035",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "melodelfe": {
+        "name": "Mélodelfe",
+        "type": "<:Fees6:1108775623134023813>",
+        "number": "036",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "goupix": {
+        "name": "Goupix",
+        "type": "<:Feus1:1108744435392581755>",
+        "number": "037",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "feunard": {
+        "name": "Feunard",
+        "type": "<:Feus1:1108744435392581755>",
+        "number": "038",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "rondoudou": {
+        "name": "Rondoudou",
+        "type": "<:Normals1:1108767642908643389>, <:Fees6:1108775623134023813>",
+        "number": "039",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "grodoudou": {
+        "name": "Grodoudou",
+        "type": "<:Normals1:1108767642908643389>, <:Fees6:1108775623134023813>",
+        "number": "040",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "nosferapti": {
+        "name": "Nosferapti",
+        "type": "<:Poisons1:1108768326496301056>, <:Vols1:1108767573283180634>",
+        "number": "041",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "nosferalto": {
+        "name": "Nosferalto",
+        "type": "<:Poisons1:1108768326496301056>, <:Vols1:1108767573283180634>",
+        "number": "042",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "mystherbe": {
+        "name": "Mystherbe",
+        "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+        "number": "043",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "ortide": {
+        "name": "Ortide",
+        "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+        "number": "044",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "rafflesia": {
+        "name": "Rafflesia",
+        "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+        "number": "045",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "paras": {
+        "name": "Paras",
+        "type": "<:Insectes1:1108766895865344154>, <:Plantes1:1108768283810873407>",
+        "number": "046",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "parasect": {
+        "name": "Parasect",
+        "type": "<:Insectes1:1108766895865344154>, <:Plantes1:1108768283810873407>",
+        "number": "047",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "mimitoss": {
+        "name": "Mimitoss",
+        "type": "<:Insectes1:1108766895865344154>, <:Poisons1:1108768326496301056>",
+        "number": "048",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "aeromite": {
+        "name": "Aéromite",
+        "type": "<:Insectes1:1108766895865344154>, <:Poisons1:1108768326496301056>",
+        "number": "049",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+      "taupiqueur": {
+        "name": "Taupiqueur",
+        "type": "<:Sols1:1108745473965183107>",
+        "number": "050",
+        "description": "",
+        "taille": "",
+        "poids": "",
+        "sprite": "",
+        "image": ""
+      },
+  "triopikeur": {
+    "name": "Triopikeur",
+    "type": "<:Sols1:1108745473965183107>",
+    "number": "051",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "miaouss": {
+    "name": "Miaouss",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "052",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "persian": {
+    "name": "Persian",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "053",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "psykokwak": {
+    "name": "Psykokwak",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "054",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "akwakwak": {
+    "name": "Akwakwak",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "055",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "ferosinge": {
+    "name": "Ferosinge",
+    "type": "Combat",
+    "number": "056",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "colossinge": {
+    "name": "Colossinge",
+    "type": "Combat",
+    "number": "057",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "caninos": {
+    "name": "Caninos",
+    "type": "<:Feus1:1108744435392581755>",
+    "number": "058",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "arcanin": {
+    "name": "Arcanin",
+    "type": "<:Feus1:1108744435392581755>",
+    "number": "059",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "ptitard": {
+    "name": "Ptitard",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "060",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "têtarte": {
+    "name": "Têtarte",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "061",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "tartard": {
+
+
+    "name": "Tartard",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "062",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "abra": {
+    "name": "Abra",
+    "type": "<:Psys1:1108746611858886686>",
+    "number": "063",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "kadabra": {
+    "name": "Kadabra",
+    "type": "<:Psys1:1108746611858886686>",
+    "number": "064",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "alakazam": {
+    "name": "Alakazam",
+    "type": "<:Psys1:1108746611858886686>",
+    "number": "065",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "machoc": {
+    "name": "Machoc",
+    "type": "Combat",
+    "number": "066",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "machopeur": {
+    "name": "Machopeur",
+    "type": "Combat",
+    "number": "067",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "mackogneur": {
+    "name": "Mackogneur",
+    "type": "Combat",
+    "number": "068",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "chetiflor": {
+    "name": "Chétiflor",
+    "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+    "number": "069",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "boustiflor": {
+    "name": "Boustiflor",
+    "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+    "number": "070",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "empiflor": {
+    "name": "Empiflor",
+    "type": "<:Plantes1:1108768283810873407>, <:Poisons1:1108768326496301056>",
+    "number": "071",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "tentacool": {
+    "name": "Tentacool",
+    "type": "<:Eaus1:1108744612719378553>, <:Poisons1:1108768326496301056>",
+    "number": "072",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "tentacruel": {
+    "name": "Tentacruel",
+    "type": "<:Eaus1:1108744612719378553>, <:Poisons1:1108768326496301056>",
+    "number": "073",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "racaillou": {
+    "name": "Racaillou",
+    "type": "<:Roches1:1108767610008522882>, <:Sols1:1108745473965183107>",
+    "number": "074",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "gravalanch": {
+    "name": "Gravalanch",
+    "type": "<:Roches1:1108767610008522882>, <:Sols1:1108745473965183107>",
+    "number": "075",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "grolem": {
+    "name": "Grolem",
+    "type": "<:Roches1:1108767610008522882>, <:Sols1:1108745473965183107>",
+    "number": "076",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "ponyta": {
+    "name": "Ponyta",
+    "type": "<:Feus1:1108744435392581755>",
+    "number": "077",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "galopa": {
+    "name": "Galopa",
+    "type": "<:Feus1:1108744435392581755>",
+    "number": "078",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "ramoloss": {
+    "name": "Ramoloss",
+    "type": "<:Eaus1:1108744612719378553>, <:Psys1:1108746611858886686>",
+    "number": "079",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "flagadoss": {
+    "name": "Flagadoss",
+    "type": "<:Eaus1:1108744612719378553>, <:Psys1:1108746611858886686>",
+    "number": "080",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "magneti": {
+    "name": "Magnéti",
+    "type": "<:Electriks1:1108744731879546992>, Acier",
+    "number": "081",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "magneton": {
+    "name": "Magnéton",
+    "type": "<:Electriks1:1108744731879546992>, Acier",
+    "number": "082",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "canarticho": {
+    "name": "Canarticho",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "083",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "doduo": {
+    "name": "Doduo",
+    "type": "<:Normals1:1108767642908643389>, <:Vols1:1108767573283180634>",
+    "number": "084",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "dodrio": {
+    "name": "Dodrio",
+    "type": "<:Normals1:1108767642908643389>, <:Vols1:1108767573283180634>",
+    "number": "085",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "otaria": {
+    "name": "Otaria",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "086",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "lamantine": {
+    "name": "Lamantine",
+   
+
+ "type": "<:Eaus1:1108744612719378553>, <:Glaces1:1108746153199153232>",
+    "number": "087",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "tadmorv": {
+    "name": "Tadmorv",
+    "type": "<:Poisons1:1108768326496301056>",
+    "number": "088",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "grotadmorv": {
+    "name": "Grotadmorv",
+    "type": "<:Poisons1:1108768326496301056>",
+    "number": "089",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "kokiyas": {
+    "name": "Kokiyas",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "090",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "crustabri": {
+    "name": "Crustabri",
+    "type": "<:Eaus1:1108744612719378553>, <:Glaces1:1108746153199153232>",
+    "number": "091",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "fantominus": {
+    "name": "Fantominus",
+    "type": "Spectre, <:Poisons1:1108768326496301056>",
+    "number": "092",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "spectrum": {
+    "name": "Spectrum",
+    "type": "Spectre, <:Poisons1:1108768326496301056>",
+    "number": "093",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "ectoplasma": {
+    "name": "Ectoplasma",
+    "type": "Spectre, <:Poisons1:1108768326496301056>",
+    "number": "094",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "onix": {
+    "name": "Onix",
+    "type": "<:Roches1:1108767610008522882>, <:Sols1:1108745473965183107>",
+    "number": "095",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "soporifik": {
+    "name": "Soporifik",
+    "type": "<:Psys1:1108746611858886686>",
+    "number": "096",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "hypnomade": {
+    "name": "Hypnomade",
+    "type": "<:Psys1:1108746611858886686>",
+    "number": "097",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "krabby": {
+    "name": "Krabby",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "098",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "kraboss": {
+    "name": "Kraboss",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "099",
+    "description": "",
+    "taille": "",
+
+
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "voltorbe": {
+    "name": "Voltorbe",
+    "type": "<:Electriks1:1108744731879546992>",
+    "number": "100",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "electrode": {
+    "name": "Électrode",
+    "type": "<:Electriks1:1108744731879546992>",
+    "number": "101",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "noeunoeuf": {
+    "name": "Noeunoeuf",
+    "type": "<:Plantes1:1108768283810873407>, <:Psys1:1108746611858886686>",
+    "number": "102",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "noadkoko": {
+    "name": "Noadkoko",
+    "type": "<:Plantes1:1108768283810873407>, <:Psys1:1108746611858886686>",
+    "number": "103",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "osselait": {
+    "name": "Osselait",
+    "type": "<:Sols1:1108745473965183107>",
+    "number": "104",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "ossatueur": {
+    "name": "Ossatueur",
+    "type": "<:Sols1:1108745473965183107>",
+    "number": "105",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "kicklee": {
+    "name": "Kicklee",
+    "type": "Combat",
+    "number": "106",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "tygnon": {
+    "name": "Tygnon",
+    "type": "Combat",
+    "number": "107",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "excelangue": {
+    "name": "Excelangue",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "108",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "smogo": {
+    "name": "Smogo",
+    "type": "<:Poisons1:1108768326496301056>",
+    "number": "109",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "smogogo": {
+    "name": "Smogogo",
+    "type": "<:Poisons1:1108768326496301056>",
+    "number": "110",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "rhinocorne": {
+    "name": "Rhinocorne",
+    "type": "<:Sols1:1108745473965183107>, <:Roches1:1108767610008522882>",
+    "number": "111",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "rhinoferos": {
+    "name": "Rhinoféros",
+    "type": "<:Sols1:1108745473965183107>, <:Roches1:1108767610008522882>",
+    "number": "112",
+    "description": "",
+    "taille": "",
+    "poids": "",
+    "sprite": "",
+    "image": ""
+  },
+  "leveinard": {
+    "name": "Leveinard",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "113",
+    "description": "Leveinard est un Pokémon qui a l'allure d'un œuf rose, avec plusieurs mèches de cheveux qui rebiquent sur les côtés. Il transporte son œuf dans sa poche ventrale. Il a de petits yeux, une bouche souriante, deux petits pieds roses et une queue pointue dressée",
+    "taille": "1,1 m, soit 3 pieds 7 pouces",
+    "poids": "34,6 kg, soit 76,3 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Leveinard-DEPS.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Leveinard_de_Pierre.png?raw=true"
+  },
+  "saquedeneu": {
+    "name": "Saquedeneu",
+    "type": "<:Plantes1:1108768283810873407>",
+    "number": "114",
+    "description": "Saquedeneu s'apparente à une petite boule de lianes bleues, qui recouvrent la majorité de son petit corps noir sphérique. La partie du devant, non recouverte, laisse ses grands yeux blancs dégagés. Ses deux courtes jambes liées à des pieds ovales sont rouges.",
+    "taille": "1,0 m, soit 3 pieds 3 pouces",
+    "poids": "35,0 kg, soit 77,2 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Saquedeneu-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/300px-Saquedeneu_d'E%CC%81rika.png?raw=true"
+  },
+  "kangourex": {
+    "name": "Kangourex",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "115",
+    "description": "L'apparence de Kangourex est à mi-chemin entre un kangourou femelle et un dinosaure. Il possède un large corps marron, robuste, équipé de plaques osseuses par endroits. Il possède des yeux rouges, un ventre et des oreille beiges, trois griffes à chaque main et à chaque pied et le dessus de sa tête est plus foncé que son corps. Comme les marsupiaux femelles, il possède une poche ventrale dans laquelle il transporte son petit. Ce dernier est semblable à sa mère en miniature ; cependant, son corps est violet pâle au lieu de marron, ses yeux sont presque entièrement noirs et il n'a pas de plaques osseuses. Selon le Pokédex, il reste auprès de sa mère jusqu'à ses trois ans, où il quitte alors le confort de la poche ventrale maternelle.",
+    "taille": "2,2 m, soit 7 pieds 3 pouces",
+    "poids": "80,0 kg, soit 176,4 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Kangourex-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/kangourex.jpg?raw=true"
+  },
+  "hypotrempe": {
+    "name": "Hypotrempe",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "116",
+    "description": "Hypotrempe ressemble à un petit hippocampe à la peau écailleuse. Sa bouche est semblable à l'ouverture d'un canon. Il possède une unique nageoire dorsale jaune et un ventre de la même couleur striée de noir. Il est doté de grands yeux rouges.",
+    "taille": "0,4 m, soit 1 pied 4 pouces",
+    "poids": "8,0 kg, soit 17,6 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Hypotrempe-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Hypotrempe_d'Ondine.png?raw=true"
+  },
+  "hypocean": {
+    "name": "Hypocéan",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "117",
+    "description": "Hypocéan ressemble à un hippocampe avec la peau écailleuse et une queue en forme de spirale. Il a de plus grandes nageoires que sa pré-évolution et celles-ci sont désormais divisées en trois branches.",
+    "taille": "1,2 m, soit 3 pieds 11 pouces",
+    "poids": "25,0 kg, soit 55,1 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Hypoc%C3%A9an-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/hypocean-article_m-1.jpg?raw=true"
+  },
+  "poissirène": {
+    "name": "Poissirène",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "118",
+    "description": "Poissirène est un Pokémon blanc qui ressemble à un poisson avec des marquages orange sur sa queue, son dos et ses nageoires. Il a une fine nageoire dorsale et de longues nageoires pectorales. Ses nageoires pectorales et dorsale sont plutôt puissantes et lui permettent de garder une vitesse constante de cinq nœuds quand il nage à la surface. La nageoire caudale de Poissirène est admirée par beaucoup comme étant une icône de beauté, car elle ressemble à une robe de bal, valant à ce Pokémon les surnoms de \"reine des océans\" et de \"danseur des flots\". Ses yeux circulaires sont bleus, et il a des lèvres roses. Il a sur le front une fine corne, qui est plus longue chez les mâles que chez les femelles.",
+    "taille": "0,6 m, soit 2 pieds 0 pouce",
+    "poids": "15,0 kg, soit 33,1 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Poissir%C3%A8ne-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Poissire%CC%80ne.png?raw=true"
+  },
+  "poissoroy": {
+    "name": "Poissoroy",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "119",
+    "description": "Poissoroy ressemble à un poisson avec de grandes nageoires blanches parsemées de points noirs et une corne sur le front. Il a deux crocs visibles, et sa nageoire caudale est très étendue vers les côtés.",
+    "taille": "1,3 m, soit 4 pieds 3 pouces",
+    "poids": "39,0 kg, soit 86,0 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Poissoroy-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/300px-EP075_-_Poissoroy_d'un_Dresseur.png?raw=trueqd"
+  },
+  "stari": {
+    "name": "Stari",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "120",
+    "description": "Stari ressemble à une étoile de mer à cinq bras. Le centre de son corps est recouvert d'un disque doré entourant un joyau rouge, appelé le coeur.",
+    "taille": "0,8 m, soit 2 pieds 7 pouces",
+    "poids": "34,5 kg, soit 76,1 livre",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Stari-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Stari_d'Ondine.png?raw=true"
+  },
+  "staross": {
+    "name": "Staross",
+    "type": "<:Eaus1:1108744612719378553>, <:Psys1:1108746611858886686>",
+    "number": "121",
+    "description": "Staross ressemble à une étoile de mer violette avec un joyau rouge au milieu de son corps, qui est son cœur. Il a cinq bras de plus que sa pré-évolution Stari, et un plus gros joyau.",
+    "taille": "1,1 m, soit 3 pieds 7 pouces",
+    "poids": "80,0 kg, soit 176,4 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Staross-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Staross.png?raw=true"
+  },
+  "m.mime": {
+    "name": "M. Mime",
+    "type": "<:Psys1:1108746611858886686>, <:Fees6:1108775623134023813>",
+    "number": "122",
+    "description": "M. Mime est un Pokémon humanoïde dont l'apparence est empruntée à la représentation traditionnelle des mimes. Son corps semble pris dans une coque blanche, avec une sphère rose au niveau du ventre ainsi que quatre autres sphères identiques à la base de ses membres. Il possède des gants et genouillères blancs et des chaussures bleu foncé dont la longue pointe rebique. D'aspect joyeux, il a deux grandes joues roses et des excroissances bleues, ressemblant à des cheveux de clown, qui partent en pointes sur les côtés.",
+    "taille": "1,3 m, soit 4 pieds 3 pouces",
+    "poids": "54,5 kg, soit 120,2 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-M._Mime-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/M._Mime_de_Delia.png?raw=true"
+  },
+  "insecateur": {
+    "name": "Insécateur",
+    "type": "<:Insectes1:1108766895865344154>, <:Vols1:1108767573283180634>",
+    "number": "123",
+    "description": "Insécateur est inspiré de la mante religieuse verte. Bipède, il se tient sur deux larges pattes équipées de trois griffes. Il possède deux paires d'ailes, et deux grandes faux en guise de bras.",
+    "taille": "1,5 m, soit 4 pieds 11 pouces",
+    "poids": "56,0 kg, soit 123,5 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Ins%C3%A9cateur-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/cizayox-pokemon-unite-insecateur.jpg?raw=true"
+  },
+  "lippoutou": {
+    "name": "Lippoutou",
+    "type": "<:Glaces1:1108746153199153232>, <:Psys1:1108746611858886686>",
+    "number": "124",
+    "description": "Lippoutou ressemble à une chanteuse d'opéra et à un monstre de la mythologie japonaise : Yama-Uba. Elle possède de longs cheveux blonds, une peau violette, des bras blancs à cinq doigts comme les humains et une robe rouge et jaune. Elle a également une grosse bouche rouge.",
+    "taille": "1,4 m, soit 4 pieds 7 pouces",
+    "poids": "40,6 kg, soit 89,5 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Lippoutou-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/lippoutou.png?raw=true"
+  },
+  "elektek": {
+    "name": "Élektek",
+    "type": "<:Electriks1:1108744731879546992>",
+    "number": "125",
+    "description": "Élektek est une créature simiesque jaune au corps rayé de noir. La rayure sur son ventre a la forme d'un éclair. Il a deux mèches et deux antennes sur la tête. Deux canines de sa mâchoire supérieure sont constamment visibles. Chacun de ses pieds possède deux grandes griffes.",
+    "taille": "1,1 m, soit 3 pieds 7 pouces",
+    "poids": "30,0 kg, soit 66,1 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-%C3%89lektek-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/elektek.png?raw=true"
+  },
+  "magmar": {
+    "name": "Magmar",
+    "type": "<:Feus1:1108744435392581755>",
+    "number": "126",
+    "description": "Magmar a le corps parsemé de motifs de flammes orange et jaune. Ses mains sont dotées de griffes acérées à leurs extrémités, tout comme ses pieds. Deux flammes ardentes crépitent sur sa tête et sa queue se termine par une flamme. Son cou et ses jambes sont noirs.",
+    "taille": "1,3 m, soit 4 pieds 3 pouces",
+    "poids": "44,5 kg, soit 98,1 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Magmar-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Magmar_d'Auguste.png?raw=true"
+  },
+  "scarabrute": {
+    "name": "Scarabrute",
+    "type": "<:Insectes1:1108766895865344154>",
+    "number": "127",
+    "description": "Scarabrute ressemble à un scarabée marron bipède qui, au lieu d'avoir des mandibules, possède deux cornes avec plusieurs petits pics sur sa tête. Il a un regard agressif et possède une bouche à dix dents (cinq en horizontal de chaque côté). Il a de petits bras et trois doigts griffus et possède de grands pieds avec trois orteils (deux devant et un derrière).",
+    "taille": "1,5 m, soit 4 pieds 11 pouces",
+    "poids": "55,0 kg, soit 121,3 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Scarabrute-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Scarabrute_de_Goh.png?raw=true"
+  },
+  "tauros": {
+    "name": "Tauros",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "128",
+    "description": "Ce Pokémon est réputé pour être très violent et excité. S'il décide de charger quelqu'un ou quelque chose, il ne s'arrêtera pas avant qu'il ne l'ait détruit. Il vit en troupeau où ils se combattent en se heurtant avec leur corne, le gagnant devient le chef de la tribu. Cependant, on peut prévoir une charge de Tauros, en effet il a la manie d'agiter, voire de se fouetter avec ses trois queues avant de se lancer (une sorte de rituel pour augmenter son agressivité). S'il ne trouve pas d'adversaire, il est capable de se ruer sur des arbres et de les déraciner juste pour se calmer. Il semblerait tout de même qu'il possède le point faible de ne charger qu'en ligne droite.",
+    "taille": "1,4 m, soit 4 pieds 7 pouces",
+    "poids": "88,4 kg, soit 194,9 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Tauros-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/tauros.jpg?raw=true"
+  },
+  "magicarpe": {
+    "name": "Magicarpe",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "129",
+    "description": "Magicarpe est un Pokémon ressemblant à un poisson rouge avec de grands yeux vitreux au regard absent. Il possède également de longs barbillons, ainsi que des ailerons en forme de couronne sur sa tête et sur son ventre. Systématiquement décrit comme l'un des Pokémon les plus inutiles qui soit, il était apparemment bien plus puissant dans les temps anciens, ayant perdu de plus en plus de force avec le temps qui passe.",
+    "taille": "0,9 m, soit 2 pieds 11 pouces",
+    "poids": "10,0 kg, soit 22,0 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Magicarpe-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/magicarpe.png?raw=true"
+  },
+  "leviator": {
+    "name": "Léviator",
+    "type": "<:Eaus1:1108744612719378553>, <:Vols1:1108767573283180634>",
+    "number": "130",
+    "description": "Léviator est un Pokémon à l'allure serpentine avec un long corps principalement bleu à l'exception de son ventre et de quelques une de ses écailles qui sont jaune pâle. Sa bouche aux lèvres jaunes est très large et révèle, une fois grande ouverte, quatre dents pointues. Il a un barbillon et une petite nageoire blanche sur chaque côté de la tête. Il a de petits yeux rouges, une crête bleu foncé sur la tête et quatre nageoires dorsales blanches. Sa queue se termine en une nageoire caudale bleue et blanche.",
+    "taille": "6,5 m, soit 21 pieds 4 pouces",
+    "poids": "235,0 kg, soit 518,1 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-L%C3%A9viator-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/leviator.png?raw=true"
+  },
+  "lokhlass": {
+    "name": "Lokhlass",
+    "type": "<:Eaus1:1108744612719378553>, <:Glaces1:1108746153199153232>",
+    "number": "131",
+    "description": "Lokhlass est une grande créature marine qui ressemble à un plésiosaure. Son corps est principalement bleu et tacheté, et son ventre est couleur crème. Il a un long cou et de grands yeux noirs. Il a également une petite corne sur le front et des oreilles qui s'enroulent sur elles-mêmes. Il possède quatre nageoires : les antérieures sont plus larges et développées que les postérieures. Il a une lourde coquille grise et bossue sur le dos.",
+    "taille": "2,5 m, soit 8 pieds 2 pouces",
+    "poids": "220,0 kg, soit 485,0 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Lokhlass-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Lokhlass_de_Red.png?raw=true"
+  },
+  "metamorph": {
+    "name": "Métamorph",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "132",
+    "description": "Dans son état naturel, Métamorph ressemble à un morceau de gelée violet clair avec un visage rudimentaire. Il possède deux « bras » rudimentaires, sans main, qui sortent de son corps. Il a aussi de petits yeux noirs et une bouche souriante. Il est capable de se transformer en n'importe quel objet ou créature.",
+    "taille": "0,3 m, soit 1 pied 0 pouce",
+    "poids": "4,0 kg, soit 8,8 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-M%C3%A9tamorph-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/metamorph.jpg?raw=true"
+  },
+  "évoli": {
+    "name": "Évoli",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "133",
+    "description": "Évoli est un Pokémon mammalien quadrupède, entre canin et félin, avec une fourrure principalement brune. Le bout de sa queue broussailleuse et son gros col de fourrure sont de couleur crème. Il a de petites jambes minces avec trois petits orteils et un coussinet rose à chaque patte. Évoli a des yeux marron, de longues oreilles pointues et un petit nez noir. On trouve rarement ce Pokémon à l'état sauvage, et plus souvent dans les villes et les zones urbaines. Cependant, on dit qu'Évoli a une structure génétique irrégulière qui lui permet de s'habituer à tous types d'environnements. Évoli peut évoluer en huit formes différentes à ce jour, selon son environnement.",
+    "taille": "0,3 m, soit 1 pied 0 pouce",
+    "poids": "6,5 kg, soit 14,3 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-%C3%89voli-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/evoli.jpeg?raw=true"
+  },
+  "aquali": {
+    "name": "Aquali",
+    "type": "<:Eaus1:1108744612719378553>",
+    "number": "134",
+    "description": "Aquali est un Pokémon qui partage des traits physiques avec des animaux marins et terrestres. Il est quadrupède avec trois petits orteils à chaque pied et un coussinet bleu foncé sur ses pattes postérieures. Le corps d'Aquali est bleu clair avec une marque bleu foncé sur la tête et une arête sur son dos. Il a une nageoire caudale qui, dans le passé, était confondue avec celle d'une sirène. Il a une collerette blanche autour du cou, et trois nageoires beiges autour de la tête. Il est dit qu'il pleuvra dans les heures qui suivent si les nageoires d'Aquali commencent à vibrer.",
+    "taille": "1,0 m, soit 3 pieds 3 pouces",
+    "poids": "29,0 kg, soit 63,9 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Aquali-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Aquali_d'Ursula.png?raw=true"
+  },
+  "voltali": {
+    "name": "Voltali",
+    "type": "<:Electriks1:1108744731879546992>",
+    "number": "135",
+    "description": "Voltali est un Pokémon quadrupède jaune avec de longues oreilles et une crinière blanche. Son pelage est hérissé et il possède une queue extrêmement courte, en comparaison avec les autres membres de sa famille évolutive.",
+    "taille": "0,8 m, soit 2 pieds 7 pouces",
+    "poids": "24,5 kg, soit 54,0 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Voltali-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Voltali_de_Red.png?raw=true"
+  },
+  "pyroli": {
+    "name": "Pyroli",
+    "type": "<:Feus1:1108744435392581755>",
+    "number": "136",
+    "description": "Docile, calme, mais dangereux lorsqu'il est énervé, ce Pokémon emmagasine de la chaleur dans son corps ce qui lui permet d'envoyer par la suite un gigantesque torrent de flammes spectaculaires pouvant atteindre les 3 000 °C. Il incarne les flammes ardentes. Son corps est orangé avec de longues oreilles. Sa queue beige est touffue comme sa fourrure autour du cou et au-dessus de sa tête. Physiquement parlant, il est également la forme évoluée la plus proche d'Évoli.",
+    "taille": "0,9 m, soit 2 pieds 11 pouces",
+    "poids": "25,0 kg, soit 55,1 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/s1/500px-Pyroli-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/s1/Pyroli_d'Ursula.png?raw=true"
+  },
+  "porygon": {
+    "name": "Porygon",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "137",
+    "description": "Porygon est un petit Pokémon d'apparence « low-poly » qui aurait été créé par les Scientifiques du Laboratoire de Cramois'Île, si l'on en croit un des rapports Pokémon que l'on peut trouver dans la Sylphe SARLRFVF, ou par le département Recherche et Développement de la Sylphe elle-mêmeLGPE. La forme de son corps peut faire penser à un petit canard. Son corps est de couleur rose bonbon, cependant, le bout de son bec, le milieu de son ventre, ses pattes et sa queue sont de couleur bleu clair. Il possède aussi deux grands yeux hexagonaux avec une pupille noire et ronde à l'intérieur.",
+    "taille": "0,8 m, soit 2 pieds 7 pouces",
+    "poids": "36,5 kg, soit 80,5 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Porygon-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/porygon.png?raw=true"
+  },
+  "amonita": {
+    "name": "Amonita",
+    "type": "<:Roches1:1108767610008522882>, <:Eaus1:1108744612719378553>",
+    "number": "138",
+    "description": "Il est inspiré d'un ammonite, un animal préhistorique. Il a un corps bleu et une carapace en spirale de couleur jaune. Il a de grands yeux noirs et aucune bouche apparente.",
+    "taille": "0,4 m, soit 1 pied 4 pouces",
+    "poids": "7,5 kg, soit 16,5 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Amonita-RFVF.png?raw=true",
+    "image": "https://raw.githubusercontent.com/Ruwin-dsc/pokeapi-france/main/pokeimage/image/amonita.webp"
+  },
+  "amonistar": {
+    "name": "Amonistar",
+    "type": "<:Roches1:1108767610008522882>, <:Eaus1:1108744612719378553>",
+    "number": "139",
+    "description": "Amonistar a l'apparence d'une grosse ammonite au corps bleu. Sa coquille comporte une rangée de cinq pics et est en forme de spirale. Contrairement à sa pré-évolution, il a un bec acéré composé de quatre parties, qui lui permet de mordre et de casser des coquilles, comme celles de Kokiyas. Il a quatre tentacules principaux courts qui lui servent de bras et jambes, et six autres longs et fins situés plus à l'arrière de son corps.",
+    "taille": "1,0 m, soit 3 pieds 3 pouces",
+    "poids": "35,0 kg, soit 77,2 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Amonistar-RFVF.png?raw=true",
+    "image": "https://raw.githubusercontent.com/Ruwin-dsc/pokeapi-france/main/pokeimage/image/amonistar.webp"
+  },
+  "kabuto": {
+    "name": "Kabuto",
+    "type": "<:Roches1:1108767610008522882>, <:Eaus1:1108744612719378553>",
+    "number": "140",
+    "description": "Kabuto fait penser à une limule, un Triops ou un trilobite. Son dos est recouvert d'une carapace ronde et marron, laissant apparaître une première paire d'yeux, petits et noirs. Sous cette armure se cache un corps noir possédant deux grands yeux ronds et roses, ainsi que deux paires de pattes courtes et griffues, jaunes.",
+    "taille": "0,5 m, soit 1 pied 8 pouces",
+    "poids": "11,5 kg, soit 25,4 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Kabuto-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/kabuto.jpeg?raw=true"
+  },
+  "kabutops": {
+    "name": "Kabutops",
+    "type": "<:Roches1:1108767610008522882>, <:Eaus1:1108744612719378553>",
+    "number": "141",
+    "description": "Kabutops ressemble à une limule ou à un trilobite dressé sur des pattes dont le thorax est allongé et ayant quatre membres. En dessous de sa tête se trouve une petite bouche. Les membres supérieurs sont chacun terminés par une griffe géante en forme de faux tandis que les membres inférieurs sont comme des jambes terminées par deux griffes. Il possède une queue (ou telson) conique, une tête triangulaire aux bords qui ressortent et des épines latérales sur le dos.",
+    "taille": "1,3 m, soit 4 pieds 3 pouces",
+    "poids": "40,5 kg, soit 89,3 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Kabutops-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/Kabutops_de_Red.png?raw=true"
+  },
+  "ptera": {
+    "name": "Ptéra",
+    "type": "<:Roches1:1108767610008522882>, <:Vols1:1108767573283180634>",
+    "number": "142",
+    "description": "Ptéra ressemble à un grand reptile carnassier gris-violet volant grâce à des membranes tendues entre ses doigts, proche du ptérodactyle dont il tire son nom. Ptéra est constitué de roche (dont le poids ne semble étonnement pas l'empêcher de voler), d'où sa classification en Pokémon de type Roche et Vol. Il a une énorme mâchoire avec douze dents pointues (six de chaque côté). Il a de petits pieds à trois orteils (deux devant et un derrière). Il a une espèce de corne entre ses ailes qui sont violettes et de petits bras à trois doigts sur celles-ci. Il a également une queue qui se termine en losange.",
+    "taille": "1,8 m, soit 5 pieds 11 pouces",
+    "poids": "59,0 kg, soit 130,1 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Pte%CC%81ra-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/ptera.jpeg?raw=true"
+  },
+  "ronflex": {
+    "name": "Ronflex",
+    "type": "<:Normals1:1108767642908643389>",
+    "number": "143",
+    "description": "Ronflex est un Pokémon plutôt lourd (avec un poids de 460 kg) qui passe son temps à dormir et ne se réveille que pour manger. Il peut faire penser à un ours ou à un panda. Dans les épisodes du dessin animé où des Ronflex sauvages sont présents, ils se situent généralement en forêt.",
+    "taille": "2,1 m, soit 6 pieds 11 pouces",
+    "poids": "460,0 kg, soit 1014,1 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108786620817227796/250px-Ronflex-RFVF.png?width=1000&height=796",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/ronflex.jpeg?raw=true"
+  },
+  "artikodin": {
+    "name": "Artikodin",
+    "type": "<:Glaces1:1108746153199153232>, <:Vols1:1108767573283180634>",
+    "number": "144",
+    "description": "Artikodin est un grand Pokémon aviaire avec un plumage bleu prédominant. On dit que ses larges ailes sont faites de glace. Il a sur la tête une crête composée de trois plumes en forme de losanges bleu foncé, et des yeux rouges. Son court bec et ses longues pattes sont gris. Il a une queue bleu foncé qui ressemble à une banderole et qui est plus longue que son corps.",
+    "taille": "1,7 m, soit 5 pieds 7 pouces",
+    "poids": "55,4 kg, soit 122,1 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108780486286917822/250px-Artikodin-RFVF.png?width=1000&height=1134",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108780372826787911/3qfpBA8.gif?width=1080&height=586"
+  },
+  "electhor": {
+    "name": "Électhor",
+    "type": "<:Electriks1:1108744731879546992>, <:Vols1:1108767573283180634>",
+    "number": "145",
+    "description": "Électhor a un corps jaune, et possède deux paires d'ailes. L'une est jaune comme son plumage et l'autre est noire. Ses ailes sont en pics sur les côtés. Il a deux petits yeux noirs avec des cernes noirs. Son bec est pointu et orange et il a des serres orange à quatre orteils (un derrière et trois devant). Dans les jeux de la première génération, Électhor n'avait que deux serres, contre trois par la suite.",
+    "taille": "1,6 m, soit 5 pieds 3 pouces",
+    "poids": "52,6 kg, soit 116,0 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108780644747706450/250px-C389lecthor-RFVF.png?width=1000&height=690",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108780935232639057/giphy.gif?width=1000&height=566"
+  },
+  "sulfura": {
+    "name": "Sulfura",
+    "type": "<:Feus1:1108744435392581755>, <:Vols1:1108767573283180634>",
+    "number": "146",
+    "description": "Sulfura est un grand oiseau de couleur jaune orangé. Il possède un long bec marron, et est reconnaissable à ses ailes, crête et panache enflammés rouge et rose. Il a également une queue enflammée rouge et rose. Il a des serres marron à quatre orteils (un derrière et trois devant). Il a des yeux triangulaires noirs. Il serait basé sur Bennu, l'oiseau de Ra qui est le premier phénix. L'apparition de Bennu annonçait la crue et le printemps et il en va de même pour Sulfura selon le pokédex. le bec effilé, La crète de Sulfura et la volute de flamme partant des yeux pour sa forme de galar pourraient rappeler le héron cendré qu'était Bennu.",
+    "taille": "2,0 m, soit 6 pieds 7 pouces",
+    "poids": "60,0 kg, soit 132,3 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108781456236482610/250px-Sulfura-DEPS.png?width=1000&height=846",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108781357448044606/Egwg.gif?width=1000&height=562"
+  },
+  "minidraco": {
+    "name": "Minidraco",
+    "type": "Dragon",
+    "number": "147",
+    "description": "Draco est un long dragon sans membre, pouvant faire penser à un serpent de mer. Sa tête et son dos sont bleus, tandis que son ventre est blanc. Il possède deux petites sphères bleues au bout de la queue, on en retrouve une troisième au niveau de sa gorge. Il possède une petite corne blanche sur son front, ainsi que deux courtes ailes en guise d'oreilles.",
+    "taille": "4,0 m, soit 13 pieds 1 pouce",
+    "poids": "16,5 kg, soit 36,4 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Minidraco-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/minidraco.png?raw=true"
+  },
+  "draco": {
+    "name": "Draco",
+    "type": "Dragon",
+    "number": "148",
+    "description": "Draco est un long dragon sans membre, pouvant faire penser à un serpent de mer. Sa tête et son dos sont bleus, tandis que son ventre est blanc. Il possède deux petites sphères bleues au bout de la queue, on en retrouve une troisième au niveau de sa gorge. Il possède une petite corne blanche sur son front, ainsi que deux courtes ailes en guise d'oreilles.",
+    "taille": "4,0 m, soit 13 pieds 1 pouce",
+    "poids": "16,5 kg, soit 36,4 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Draco-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/draco.jpeg?raw=true"
+  },
+  "dracolosse": {
+    "name": "Dracolosse",
+    "type": "Dragon, <:Vols1:1108767573283180634>",
+    "number": "149",
+    "description": "Dracolosse est un Pokémon bipède ressemblant à un dragon à la peau jaune foncé. Il est grand, assez costaud, a des yeux de couleur vert kaki, et il possède deux petites ailes bleu vert dans le dos lui permettant de voler. Il possède une corne et deux antennes blanches sur sa tête, trois griffes sur ses mains et ses pieds et une queue.",
+    "taille": "2,2 m, soit 7 pieds 3 pouces",
+    "poids": "210,0 kg, soit 463,0 livres",
+    "sprite": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/sprite/500px-Dracolosse-RFVF.png?raw=true",
+    "image": "https://github.com/Ruwin-dsc/pokeapi-france/blob/main/pokeimage/image/dracolosse.jpeg?raw=true"
+  },
+  "mewtwo": {
+    "name": "Mewtwo",
+    "type": "<:Psys1:1108746611858886686>",
+    "number": "150",
+    "description": "Comme Mewtwo a été créé à partir de Mew, il est également à mi-chemin entre le chat (pour la tête) et la gerboise (pour le reste du corps), à la différence qu'il mesure 2 mètres et a des membres plus longs que ceux de Mew, lui donnant une apparence presque humanoïde. Il se déplace la plupart du temps en lévitant. Mewtwo est un Pokémon principalement mauve (ou blanc selon les versions). Il possède une longue queue violette qui remonte jusqu'au bas de son ventre. Il possède trois doigts bulbeux, deux « cornes » en haut de la tête, une sorte de tuyau derrière son cou et des yeux violets avec une pupille ovale.",
+    "taille": "2,0 m, soit 6 pieds 7 pouces",
+    "poids": "122,0 kg, soit 269,0 livres",
+    "sprite": "https://media.discordapp.net/attachments/1108464657418686494/1108779152875724850/250px-Mewtwo-DEPS.png?width=1000&height=926",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108779335697043636/7eb8e4d2804d96e7e5b6a314d0ae955c.gif?width=1000&height=562"
+  },
+  "mew": {
+    "name": "Mew",
+    "type": "<:Psys1:1108746611858886686>",
+    "number": "151",
+    "description": "Mew est né d'une blague du programmeur Shigeki Morimoto : avec l'aide de toute l'équipe, le 151e Pokémon a été intégré dans le jeu au tout dernier moment, lorsque les fonctions de débugage furent retirées de la cartouche, libérant 300 octets, malgré la demande de ne plus toucher au code durant la phase de test du jeu. Seuls les membres de GAME FREAK étaient informés de la présence de Mew dans le jeu, son existence ne devant pas être révélée au public.",
+    "taille": "0,4 m, soit 1 pied 4 pouces",
+    "poids": "4,0 kg, soit 8,8 livres",
+    "sprite": "https://cdn.discordapp.com/attachments/1108464657418686494/1108777514748362752/250px-Mew-DEPS.png",
+    "image": "https://media.discordapp.net/attachments/1108470355418415186/1108777892340564098/pokemon-mew.gif?width=1280&height=716"
+  }
+  }

@@ -1,0 +1,25 @@
+{
+  "BDD": {
+    "host": "",
+    "port": "3306",
+    "user": "",
+    "password": "",
+    "database": "",
+    "charset": "utf8mb4"
+  },
+  "owner": ["820361590826205215"],
+  "API": {
+    "giphy": "",
+    "pixabay": ""
+  },
+  "botId": "",
+
+  "salon": {
+    "whitehallGuildAdded": "",
+    "GuildAddedLog": "",
+    "GuildRemovedLog": "",
+    "dblogin": ""
+  },
+
+  "token": ""
+}
