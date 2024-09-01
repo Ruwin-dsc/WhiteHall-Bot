@@ -1,25 +1,25 @@
 {
+    "token": "",
+    "botId": "",
+
   "BDD": {
     "host": "",
-    "port": "3306",
+    "port": "",
     "user": "",
     "password": "",
     "database": "",
     "charset": "utf8mb4"
   },
-  "owner": ["820361590826205215"],
+  "owner": ["0123456789"],
   "API": {
     "giphy": "",
     "pixabay": ""
   },
-  "botId": "",
 
   "salon": {
     "whitehallGuildAdded": "",
     "GuildAddedLog": "",
     "GuildRemovedLog": "",
     "dblogin": ""
-  },
-
-  "token": ""
+  }
 }
