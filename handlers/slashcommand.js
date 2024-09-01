@@ -6,14 +6,15 @@ module.exports = async (bot) => {
   let commands = [];
 
   bot.slashcommand.forEach((command) => {
+    const commandName = command.name.toLowerCase().replace(/[^a-z0-9_-]/g, '');
+  
     let slashCommand = new Discord.SlashCommandBuilder()
-      .setName(command.name)
+      .setName(commandName)
       .setDescription(command.description)
       .setDMPermission(command.dm)
       .setDefaultMemberPermissions(
         command.permission === "Aucune" ? null : command.permission
       );
-
     if (command.options?.length >= 1) {
       for (let i = 0; i < command.options.length; i++) {
         if (command.options[i].type === "string")
@@ -61,5 +62,5 @@ module.exports = async (bot) => {
   const rest = new REST({ version: "10" }).setToken(bot.config.token);
 
   await rest.put(Routes.applicationCommands(bot.user.id), { body: commands });
-  console.log("Les slash commands sont chargés avec succès !");
+  console.log("Les commandes slash sont chargées avec succès !");
 };
